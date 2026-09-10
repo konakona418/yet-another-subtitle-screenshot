@@ -83,3 +83,10 @@ Each run creates a timestamped folder inside the chosen output root:
 ```sh
 uv run pytest
 ```
+
+## Demo
+
+From _Zan Sayonara Zetsubou Sensei_ E06.
+
+<img width="1280" height="1095" alt="contact_sheet" src="https://github.com/user-attachments/assets/e64ff25b-3be8-4885-bf6f-829856bb7ec6" />
+
